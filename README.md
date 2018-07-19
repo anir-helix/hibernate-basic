@@ -19,13 +19,14 @@ This is basic Java Hibernate project where we have used a table called Student. 
 
 All the application are avaiable under package named "crudops".
 
-##### CRUD ops :
-**CreateStudentsForPrimarykeyDemo.java**	--> For Create Operation
-**DeleteStudent.java**						--> For Delete Operation
-**GetStudent.java**							--> For Read Operation
-**UpdateStudent.java**						--> For Update Operation
-**UpdateBulkStudent.java**					--> For Bulk Update Operations using Custom Query object
-**HBQueryingStudentDemo.java**				--> Example of using Custom Query Object
+##### CRUD ops details :
+
+- **CreateStudentsForPrimarykeyDemo.java**	--> For Create Operation
+- **DeleteStudent.java**						--> For Delete Operation
+- **GetStudent.java**							--> For Read Operation
+- **UpdateStudent.java**						--> For Update Operation
+- **UpdateBulkStudent.java**					--> For Bulk Update Operations using Custom Query object
+- **HBQueryingStudentDemo.java**				--> Example of using Custom Query Object
 
 ## Add on feature:
 
