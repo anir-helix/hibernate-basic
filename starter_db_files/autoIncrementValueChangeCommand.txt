@@ -1,0 +1,14 @@
+"How do I change the auto increment values to any value?"
+
+--> alter table hb_student_tracker.student auto_increment=300
+
+===================================================================================================
+===================================================================================================
+
+I want to clean out my database and I want to start the auto increments from 1?
+
+--> first reset the data set with following command
+	truncate hb_student_tracker.student
+	
+	Now run the application.
+
