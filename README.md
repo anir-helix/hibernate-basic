@@ -1,10 +1,11 @@
 # hibernate-basic
 hibernate-101, basic coding function like CRUD operation with details steps. The Purpose of this project is to understand hibernate with simple and live example.
 
-## Feature
+## Feature:
+
 This is basic Java Hibernate project where we have used a table called Student. and we enter and manupulate DB table data by using this code.
 
-### Steps to Configure Project
+### Steps to Configure Project:
 
 1. Open folder "starter_db_files/"
 2. Open your MySql Workbench
@@ -19,7 +20,7 @@ This is basic Java Hibernate project where we have used a table called Student. 
 All the application are avaiable under package named "crudops".
 
 ##### CRUD ops :
-**CreateStudentsForPrimarykeyDemo.java**	--> For Create Operation 
+**CreateStudentsForPrimarykeyDemo.java**	--> For Create Operation
 **DeleteStudent.java**						--> For Delete Operation
 **GetStudent.java**							--> For Read Operation
 **UpdateStudent.java**						--> For Update Operation
