@@ -6,13 +6,17 @@ This is basic Java Hibernate project where we have used a table called Student. 
 
 ###Steps to Configure Project:
 
-1. Open folder "starter_db_files/"
+1. Open folder "***starter_db_files/***"
 2. Open your MySql Workbench
-3. open sql file "starter_db_files/01-create-user.sql", to create new user account. If you wish to use your own credentials then you need to change in code.
-4. Open "starter_db_files/02-student-tracker.sql", this will create Student Table.
+3. open sql file "***starter_db_files/01-create-user.sql***", to create new user account. If you wish to use your own credentials then you need to change in code.
+4. Open "***starter_db_files/02-student-tracker.sql***", this will create Student Table.
 5. Next Open Eclipse IDE installed in your system.
-6. Import the Project in to you system and Run the project.
-
+6. Import the Project in to you system.
+7. Need to add Lib jar into classpath, those Jar files are provided under following folder:  "***lib***".
+8. Now right click on project root in Eclipse, and go to properties. 
+9. Select "*Java Build Path*" and the select tab "***Libraries***"
+10. Click on "*Add JARs...*" button and got to project based "**lib**" folder and select the all the jar files and add., '*Apply and Close*'
+11. Run the project
 
 #### Explore Project:
 
